@@ -26,9 +26,9 @@
     <script type="text/javascript" src="/res/softcenter.js"></script>
     <script type="text/javascript" src="/form.js"></script>
     <!--  -->
-    <script type="module" crossorigin src="/res/soft-v19/assets/index.363639bf.js"></script>
-    <link rel="modulepreload" href="/res/soft-v19/assets/vendor.a55ccb9b.js">
-    <link rel="stylesheet" href="/res/soft-v19/assets/style.e8ddc385.css">
+    <script type="module" crossorigin src="/res/soft-v19/assets/index.b929b689.js"></script>
+    <link rel="modulepreload" href="/res/soft-v19/assets/vendor.ea672a63.js">
+    <link rel="stylesheet" href="/res/soft-v19/assets/style.fb4fb7d0.css">
     <!--  -->
 </head>
 <script>
