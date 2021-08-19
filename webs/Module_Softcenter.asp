@@ -59,7 +59,7 @@
             </td>
             <td valign="top">
                 <div id="tabMenu" class="submenuBlock" style="display: none;"></div>
-                <table width="98%" border="0" align="left" cellpadding="0" cellspacing="0">
+                <table width="100%" style="width: calc( 100% - 6px);" border="0" align="left" cellpadding="0" cellspacing="0">
                     <tr>
                         <td align="left" valign="top">
                             <div id="app"></div>
