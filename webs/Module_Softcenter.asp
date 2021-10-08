@@ -46,9 +46,9 @@
 		}
 	</script>
 	<!--  -->
-    <script type="module" crossorigin src="/res/soft-v19/assets/index.547b10f4.js"></script>
+    <script type="module" crossorigin src="/res/soft-v19/assets/index.d312bc92.js"></script>
     <link rel="modulepreload" href="/res/soft-v19/assets/vendor.cad358c0.js">
-    <link rel="stylesheet" href="/res/soft-v19/assets/style.858d1997.css">
+    <link rel="stylesheet" href="/res/soft-v19/assets/style.1f181f26.css">
 	<!--  -->
 </head>
 
